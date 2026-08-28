@@ -1,0 +1,62 @@
+[00:01.5 - 00:03.5] Bon, finalement, tu n'as jamais rappelé.
+[00:03.5 - 00:10.0] Moi, je sors d'une nuit blanche et il faut que je me ressource parce que bah 11 heures, je dois bouger.
+[00:10.0 - 00:17.2] Le site en question, bon, il est fonction-- bon, pas fonctionnel, pas...
+[00:17.2 - 00:19.1] Ça marche, mais ce n'est pas fonctionnel.
+[00:19.1 - 00:25.7] Euh, il faudrait...
+[00:25.7 - 00:35.8] Parce que j'ai essayé, il faudrait que normalement, lorsque tu as d'abord à scanner, il faudrait que ça, ça me demande l'autorisation pour que,
+[00:35.8 - 00:39.2] en fait, il faut que ça, ça donne accès à l'appareil photo.
+[00:39.2 - 00:42.4] Mais bon, le truc du scan, ça ne marche pas.
+[00:42.4 - 00:44.3] Donc ce n'est pas fonctionnel, en fait.
+[00:44.3 - 00:47.1] Le site en soi, il fonctionne, mais il n'est pas fonctionnel.
+[00:47.1 - 00:48.2] Je comprends pas pourquoi.
+[00:48.2 - 00:50.4] Là, on verra plus tard.
+[00:50.4 - 00:58.6] Mais seulement, il y a une petite reproche.
+[00:58.6 - 01:08.7] Bon, je sais pas tourner une reproche, mais Comprends-moi, je suis déjà presque-- je suis déjà, hein, à court d'énergie
+[01:08.7 - 01:14.3] et au bout de mes, au bout de mes forces.
+[01:14.3 - 01:16.3] Donc en fait, le site, il est trop quadrillé.
+[01:16.3 - 01:19.6] Donc genre, sur le plan esthétique, ça pose un peu problème.
+[01:19.6 - 01:20.5] C'est pas beau à voir.
+[01:20.5 - 01:27.6] Remplace ba carré carré nyonso wana na par ba carré mondé ti ona tindé lio.
+[01:27.6 - 01:30.5] Genre que ba coin na zala un peu arrondi.
+[01:30.5 - 01:34.7] Le site, il est trop quadrillé, c'est pas très esthétique.
+[01:34.7 - 01:39.8] Tu vois, même là où, ba ti es vue d'ensemble.
+[01:39.8 - 01:42.6] Tu vois, là où ça fait comme si ça coche et tout et tout.
+[01:42.6 - 01:45.7] C'est beau, mais c'est trop pointu, tu vois ?
+[01:45.7 - 01:52.1] Mondé na ba bilowo tout, il faut pliquer les trucs trop carré, bilowo tout ekomona ba anglements un peu arrondis comme ça.
+[01:52.1 - 01:54.3] Je crois que c'est la seule chose qu'il y a.
+[01:54.3 - 02:04.3] Et partout là où il y a photo de profil, genre ici, Gatsby, sur la première image, la deuxième image, Elodie Martin, euh, Amélie Laurent,
+[02:04.3 - 02:09.9] Thomas, partout là où il y a des photos de profil, il faut que ça soit rond.
+[02:09.9 - 02:14.0] Partout là où il y a des profils, il faut que ça soit rond.
+[02:14.0 - 02:21.3] Et tous les thèmes, il faut longwa ba carré pointillé, il faut ekomwa boyé, hein, tous les trucs des nini boyé.
+[02:21.3 - 02:26.0] Mais en soi, sur le plan esthétique, c'est quand même beau, c'est prof-- bon, ça a l'air professionnel et tout et tout.
+[02:26.0 - 02:30.9] Mais je crois que c'est le seul point qu'il faut un peu toucher.
+[02:30.9 - 02:38.1] Donc le thème, ezana un peu, hein, va, va regarder, euh, Dynamic Island de Apple.
+[02:38.1 - 02:41.8] Donc il faut que ça soit avec un thème un peu à la Dynamic Island et tout.
+[02:41.8 - 02:44.0] Donc il faut pas des trucs trop carré carré boyé.
+[02:44.0 - 02:48.6] Il faut que ça soit un peu arrondi n'est-il l'image que je t'ai envoyée ici.
+[02:48.6 - 02:51.5] Vois ça et puis tu me dis quoi ?
+[02:51.5 - 02:59.1] Et puis tu me, m'expliques pourquoi est-ce que, euh, photo, on n'a pas ni, ça ne renvoie pas à la caméra.
+[02:59.1 - 03:06.0] Et puis je t'avais donné les noms ya projet wana moni ya wana tu as maintenu Gatsby.
+[03:06.0 - 03:06.9] Je sais pas pourquoi.
+[03:06.9 - 03:11.2] Au pire, au pire, tu vas zoro babel.
+[03:11.2 - 03:11.7] Seigneur.
+[03:11.7 - 03:16.1] Le mot là ba boko ba zoro babel na yo wana.
+[03:16.1 - 03:26.1] Enlève ça et tu enlèves et il faut que le
+[03:26.1 - 03:30.4] site soit opérationnel pour que je puisse faire un texte, un premier, un, un, un premier test.
+[03:30.4 - 03:36.3] Et enlève, enlève ba Gatsby et plus wana non.
+[03:36.3 - 03:39.7] Adapte le nini au projet directement.
+[03:39.7 - 03:41.5] Je sais pas si tu peux essayer a woni.
+[03:41.5 - 03:44.4] Bon, si, si je t'avais dit non, c'est Site Room.
+[03:44.4 - 03:45.8] Je crois que j'ai noté quelque part ici.
+[03:45.8 - 03:47.2] Maintenant, otinde longuement du source.
+[03:47.2 - 03:51.9] Site Room, tu peux ajouter les...
+[03:51.9 - 03:56.4] Le mot là ba zoro babel, Gatsby, repli, dreads, zip wana zoro babel non.
+[03:56.4 - 03:59.7] Pas des zip aussi wana, je comprends pas pourquoi c'est, hein.
+[03:59.7 - 04:04.8] Le point repli, point app wana, c'est OK.
+[04:04.8 - 04:08.4] Mais mets le nom du projet.
+[04:08.4 - 04:13.4] Site Room, tu peux essayer d'ajouter aussi quelque chose qui fait un peu professionnel.
+[04:13.4 - 04:14.9] Je sais pas, tu peux, hein.
+[04:14.9 - 04:16.4] Mais le truc, c'est Site Room.
+[04:16.4 - 04:19.1] Le projet, en son, on l'avait nommé Site Room.
+[04:19.1 - 04:26.6] Je sais pas, tu peux kolopa moi akoni mona soso akoli na ye, mais le mot là zoro babel ba Gatsby, ba trois cent quarante-cinq wana.
+[04:26.6 - 04:28.9] Prends un chiffre et un nombre plutôt
